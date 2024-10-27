@@ -341,7 +341,7 @@ section {
   text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
-  gap: 2.5rem;
+  gap: 4rem;
   justify-content: space-around;
 }
 
